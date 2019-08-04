@@ -1,7 +1,5 @@
-# dependencies
-/node_modules
-# production
-/public
+# Created by .ignore support plugin (hsz.mobi)
 .idea
-
+.gitignore
+/node_modules
 yarn.lock
